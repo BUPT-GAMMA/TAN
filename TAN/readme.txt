@@ -8,5 +8,5 @@ Weibo: https://www.aminer.cn/influencelocality
 Memetracker: http://www.memetracker.org/
 DBLP: https://www.aminer.cn/citation
 
-Training£º
+Training:
 python train.py
